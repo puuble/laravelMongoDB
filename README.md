@@ -30,7 +30,9 @@ I created structure with [jenssegers/laravel-mongodb](https://github.com/jensseg
 if you need jetstream  you can follow this steps. for more information [jetstream](https://jetstream.laravel.com/1.x/installation.html#installing-jetstream)
 
 ``` composer require laravel/jetstream ```
+
 ``` php artisan jetstream:install livewire ```
+
 ``` npm install && npm run dev```
 
 And last step for create collection on MongoDB
